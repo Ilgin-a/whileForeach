@@ -1,0 +1,15 @@
+/Users/ilginarpaci1/Documents/sites/c#/whileForeach/bin/Debug/net6.0/whileForeach
+/Users/ilginarpaci1/Documents/sites/c#/whileForeach/bin/Debug/net6.0/whileForeach.deps.json
+/Users/ilginarpaci1/Documents/sites/c#/whileForeach/bin/Debug/net6.0/whileForeach.runtimeconfig.json
+/Users/ilginarpaci1/Documents/sites/c#/whileForeach/bin/Debug/net6.0/whileForeach.dll
+/Users/ilginarpaci1/Documents/sites/c#/whileForeach/bin/Debug/net6.0/whileForeach.pdb
+/Users/ilginarpaci1/Documents/sites/c#/whileForeach/obj/Debug/net6.0/whileForeach.csproj.AssemblyReference.cache
+/Users/ilginarpaci1/Documents/sites/c#/whileForeach/obj/Debug/net6.0/whileForeach.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ilginarpaci1/Documents/sites/c#/whileForeach/obj/Debug/net6.0/whileForeach.AssemblyInfoInputs.cache
+/Users/ilginarpaci1/Documents/sites/c#/whileForeach/obj/Debug/net6.0/whileForeach.AssemblyInfo.cs
+/Users/ilginarpaci1/Documents/sites/c#/whileForeach/obj/Debug/net6.0/whileForeach.csproj.CoreCompileInputs.cache
+/Users/ilginarpaci1/Documents/sites/c#/whileForeach/obj/Debug/net6.0/whileForeach.dll
+/Users/ilginarpaci1/Documents/sites/c#/whileForeach/obj/Debug/net6.0/refint/whileForeach.dll
+/Users/ilginarpaci1/Documents/sites/c#/whileForeach/obj/Debug/net6.0/whileForeach.pdb
+/Users/ilginarpaci1/Documents/sites/c#/whileForeach/obj/Debug/net6.0/whileForeach.genruntimeconfig.cache
+/Users/ilginarpaci1/Documents/sites/c#/whileForeach/obj/Debug/net6.0/ref/whileForeach.dll
